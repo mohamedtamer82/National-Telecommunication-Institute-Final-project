@@ -46,3 +46,9 @@ https://flightrepo2.streamlit.app/
 Improve accuracy with more advanced models
 
 Integrate real-time flight data
+📬 Contact
+For questions or collaboration:
+
+Mohamed Tamer
+LinkedIn www.linkedin.com/in/mohamed-tamer-673ba82a9
+mohamedtamerr04@gmail.com
