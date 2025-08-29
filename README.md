@@ -16,6 +16,30 @@ The goal is to predict flight ticket prices based on multiple features such as:
 
 By analyzing these factors, the model can help travelers and businesses estimate flight prices more accurately.
 
+🔑 Main Steps
+
+🧹 Data Cleaning – handled missing values and inconsistencies
+
+🔎 Exploratory Data Analysis (EDA) – discovered patterns and insights
+
+🛠️ Feature Engineering – extracted features (month, day, duration, stops, etc.)
+
+⚙️ Data Preprocessing – encoded categorical data & scaled numerical values
+
+🤖 Model Training – trained and compared six ML models
+
+📊 Visualization – plotted insights for feature impact
+
+🌐 Deployment – deployed interactive app using Streamlit
+
+📈 Results
+
+Achieved an accuracy of 84%
+
+Compared multiple models for performance
+
+Identified key features affecting flight prices
+
 🔧 Technologies Used
 
 Python (data processing & modeling)
@@ -25,16 +49,6 @@ Pandas, NumPy (data cleaning & manipulation)
 Matplotlib, Seaborn (exploratory data analysis & visualization)
 
 Scikit-learn / XGBoost (machine learning models)
-
-🚀 Features
-
-Data preprocessing and feature engineering
-
-Exploratory Data Analysis (EDA) with visualizations
-
-Multiple machine learning models compared
-
-Price prediction for unseen flights
 
 🌐 Deployment – deployed interactive app using Streamlit
 
